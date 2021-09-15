@@ -27,11 +27,11 @@ async function showImage(today){
         document.getElementById("birthday").style.display = "block";
         await sleep(2000);
         document.getElementById("images1").style.display = "block";
-        await sleep(2000);
+        await sleep(4000);
         document.getElementById("images2").style.display = "block";
-        await sleep(2000);
+        await sleep(4000);
         document.getElementById("images3").style.display = "block";
-        await sleep(2000);
+        await sleep(4000);
         document.getElementById("time").style.fontSize = "30px";
         document.getElementById("text").style.display = "block";
 
